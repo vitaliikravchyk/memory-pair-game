@@ -10,13 +10,10 @@ body {
     flex-wrap: wrap;
     justify-content: center;
 }
-h1 {
+h1, p {
     display: flex;
     justify-content: center;
     font-size: 30px;
-}
-p {
-    font-size: 20px;
 }
 .item {
     padding: 5px;
